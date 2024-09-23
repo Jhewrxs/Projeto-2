@@ -2,14 +2,37 @@ body {
     color: white;
     background: black;
     margin: 0px;
+    font-family: "Nunito Sans", sans-serif;
 }
 
 header {
      border-bottom: solid 2px white;
      padding: 20px;
      font-size: 32px;
+     color:gray;   
 }
 
 section {
-    background: rgb(203, 208, 237,);
+    background: rgb(72, 72, 75);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+div{
+    margin-right: 20px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
